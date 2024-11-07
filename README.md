@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Romeo] 
+# [Romeo_UTS] 
 
 Welcome to my GitHub! I'm a passionate data scientist with a focus on extracting actionable insights from data, developing predictive models, and driving data-driven decisions. 
 
@@ -23,14 +23,16 @@ Welcome to my GitHub! I'm a passionate data scientist with a focus on extracting
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+
 ### 📈 Projects
-- **[https://github.com/romeodandison/Machine_Learning-Project/blob/main/Credit%20_card_Clustering-checkpoint.ipynb](#)**: Applied clustering algorithms for marketing insights
-- **[https://github.com/romeodandison/Machine_Learning-Project/blob/main/Systemic%20Crisis%2C%20Banking%20Crisis%2C%20inflation%20Crisis%20In%20Africa.ipynb](#)**: Developed models to predict [specific business outcomes]
-- **[https://github.com/romeodandison/Machine_Learning-Project/blob/main/Customer%20purchases%20history.ipynb](#)**: In-depth EDA on diverse datasets, from finance to health
+- **[Customer Segmentation]([https://github.com/yourusername/customer-segmentation](https://github.com/romeodandison/Machine_Learning-Project/blob/main/Credit%20_card_Clustering-checkpoint.ipynb)**: Applied clustering algorithms for marketing insights
+- **[Predictive Modeling]([https://github.com/yourusername/predictive-modeling](https://github.com/romeodandison/Machine_Learning-Project/blob/main/Systemic%20Crisis%2C%20Banking%20Crisis%2C%20inflation%20Crisis%20In%20Africa.ipynb)**: Developed models to predict [specific business outcomes]
+- **[Exploratory Data Analysis]([[https://github.com/yourusername/exploratory-data-analysis](https://github.com/romeodandison/Machine_Learning-Project/blob/main/Customer%20purchases%20history.ipynb](https://github.com/romeodandison/Machine-learning_Python)**: In-depth EDA on diverse datasets
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ro-meo)
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/romeo_uts)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/romeo_uts)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:talktoromeo.com)
 
 Thanks for stopping by, and feel free to reach out if you're interested in collaborating on data projects!
