@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Romeo Dandison] 
+# 👋 Hi there! I'm **Romeo Dandison**
 
 Welcome to my GitHub! I'm a passionate data scientist with a focus on extracting actionable insights from data, developing predictive models, and driving data-driven decisions. 
 
