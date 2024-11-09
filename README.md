@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm **Romeo Dandison**
 
-Welcome to my GitHub! I'm a passionate data scientist with a focus on extracting actionable insights from data, developing predictive models, and driving data-driven decisions. 
+I am driven by a relentless curiosity to unravel the answers i seek,  data scientist with a focus on extracting actionable insights from data, developing predictive models, and driving data-driven decisions. 
 
 ### 🔬 About Me
 - 📊 I specialize in **data analytics, machine learning,** and **statistical modeling**
-- 🔎 Currently exploring **advanced data science projects** and **ML engineering that predicts the price of financial instruments**
+- 🔎 Currently exploring **advanced data science projects** and **ML engineering that predicts the price of financial asset classes**
 - 🌱 Constantly learning new techniques and technologies to stay ahead in the field
 
 ### 🔧 Technologies & Tools
@@ -35,4 +35,4 @@ Welcome to my GitHub! I'm a passionate data scientist with a focus on extracting
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/romeo_uts)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:talktoromeo.com)
 
-Thanks for stopping by, and feel free to reach out if you're interested in collaborating on data projects!
+I am open to collaborating on data projects!
