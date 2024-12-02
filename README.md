@@ -31,8 +31,6 @@ I am driven by a relentless curiosity to unravel the answers i seek,  data scien
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ro-meo)
-[![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/romeo_uts)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/romeo_uts)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:talktoromeo.com)
 
 I am open to collaborating on data projects!
